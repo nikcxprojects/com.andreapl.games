@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527236129192",
+    "project_id": "apptest1-6e5e0",
+    "storage_bucket": "apptest1-6e5e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527236129192:android:a226c40abb2d142737bd9d",
+        "android_client_info": {
+          "package_name": "com.andreapl.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527236129192-m2qer62e5rt75haa87dd2lunu8oss93k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYUNEbnlX3n_SvcyALzUcGqLVwmJkl70s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527236129192-m2qer62e5rt75haa87dd2lunu8oss93k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
